@@ -29,13 +29,4 @@ window.botpressWebChat.onEvent(function () {
     })
 }, ['LIFECYCLE.LOADED']);
 
-//Baidu
-var _hmt = _hmt || [];
-(function() {
-  var hm = document.createElement("script");
-  hm.src = "https://hm.baidu.com/hm.js?0d684c977a65aaabd97ff7424155c52b";
-  var s = document.getElementsByTagName("script")[0]; 
-  s.parentNode.insertBefore(hm, s);
-})();
-
 
