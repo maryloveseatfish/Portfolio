@@ -14,7 +14,7 @@ window.botpressWebChat.init({
     "theme": "prism",
     "themeColor": "#2563eb",
     "hideWidget": false,
-    "disableAnimations": true,
+    "disableAnimations": false,
     "closeOnEscape": false,
     "showConversationsButton": true,
     "enableTranscriptDownload": false,
@@ -23,10 +23,9 @@ window.botpressWebChat.init({
     "layoutWidth": "100%25",
     "showCloseButton": true
 });
+/*
 window.botpressWebChat.onEvent(function () {
     window.botpressWebChat.sendEvent({
         type: 'show'
     })
-}, ['LIFECYCLE.LOADED']);
-
-
+}, ['LIFECYCLE.LOADED']);*/

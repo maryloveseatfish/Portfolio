@@ -112,7 +112,7 @@
             lockAnchors: false,
             navigation: false,
             navigationPosition: 'right',
-            navigationTooltips: ['HSBC Mortgage Process Optimization', 'H&M China Online Store', 'Rendong HOLDINGS', 'Banggood', 'Sohu'],
+            navigationTooltips: ['Homepage', 'HSBC Mortgage Process Optimization', 'H&M China Online Store', 'Rendong HOLDINGS', 'Banggood', 'Sohu', 'Contact me'],
             showActiveTooltip: false,
             slidesNavigation: true,
             slidesNavPosition: 'bottom',
